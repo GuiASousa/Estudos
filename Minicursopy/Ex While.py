@@ -5,8 +5,7 @@ def fatorial(x):
         v = 1
         for x in range(2,x+1):
             v *= x
-        return v
+        return 
 
 
 
-         

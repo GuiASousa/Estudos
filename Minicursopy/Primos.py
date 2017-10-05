@@ -3,13 +3,13 @@ def primo(x):
         return True
     else:
         if x % 2 == 0:
-            return False
+            print(False)
         else:
-            for i in range(2, x ** 0.5):
+            for i in range(2, x):
                 if (x % i) == 0:
-                    return False
+                    print(False)
                 else:
-                    return True
+                    print(True)
 
 a = int(input())
 print(primo(a))
