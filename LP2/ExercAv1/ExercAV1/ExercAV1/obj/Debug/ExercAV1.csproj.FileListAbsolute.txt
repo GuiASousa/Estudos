@@ -1,0 +1,9 @@
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\bin\Debug\ExercAV1.exe.config
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\bin\Debug\ExercAV1.exe
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\bin\Debug\ExercAV1.pdb
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.csprojResolveAssemblyReference.cache
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.Form1.resources
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.Properties.Resources.resources
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.csproj.GenerateResource.Cache
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.exe
+Q:\LP2\ExercAv1\ExercAV1\ExercAV1\obj\Debug\ExercAV1.pdb

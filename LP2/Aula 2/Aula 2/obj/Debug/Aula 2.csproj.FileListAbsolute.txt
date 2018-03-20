@@ -1,0 +1,9 @@
+Q:\LP2\Aula 2\Aula 2\bin\Debug\Aula 2.exe.config
+Q:\LP2\Aula 2\Aula 2\bin\Debug\Aula 2.exe
+Q:\LP2\Aula 2\Aula 2\bin\Debug\Aula 2.pdb
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula 2.csprojResolveAssemblyReference.cache
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula_2.Form1.resources
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula_2.Properties.Resources.resources
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula 2.csproj.GenerateResource.Cache
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula 2.exe
+Q:\LP2\Aula 2\Aula 2\obj\Debug\Aula 2.pdb
